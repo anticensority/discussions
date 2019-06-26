@@ -1,2 +1,3 @@
-# discussions
-Обсуждение проектов «Антицензорити» и «Антизапрет»
+# Обсуждение проектов «Антицензорити» и «Антизапрет»
+
+См. https://github.com/anticensority/discussions/issues.
